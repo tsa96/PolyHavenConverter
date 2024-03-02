@@ -1,6 +1,6 @@
 import random
 import string
-from vmfmaker.PyVMF import *
+from pyvmf.src.PyVMF import *
 
 grid_max = 2**13 - 2048  # Make room for skybox
 size = 256
