@@ -1,0 +1,198 @@
+aerial_asphalt_01:
+  name: Aerial Asphalt 01
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_asphalt_01/aerial_asphalt_01_diff_1k.png
+      md5: 423f88cd96c687ac0e26f27d195e0bc9
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_asphalt_01/aerial_asphalt_01_arm_1k.png
+      md5: d78c78a6e96165530d354b95cea73529
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_asphalt_01/aerial_asphalt_01_nor_dx_1k.png
+      md5: 1c1874d2bd2b43ca7f25d586d531fa97
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_asphalt_01/aerial_asphalt_01_disp_1k.png
+      md5: 1560b8b1f1afcd4e2596fbfb7ebfc695
+  depth: 0
+  surfaceProp: Concrete
+aerial_beach_01:
+  name: Aerial Beach 01
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_01/aerial_beach_01_diff_1k.png
+      md5: 26da97fcd6a0ff18365fc8f485ac0f83
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_01/aerial_beach_01_arm_1k.png
+      md5: a8cd8fed54981f228689c820f08ad830
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_01/aerial_beach_01_nor_dx_1k.png
+      md5: 773f773c2106c9ad2c134a87e86d5cea
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_01/aerial_beach_01_disp_1k.png
+      md5: d7a63e756e644cbf1e41729126d08b3a
+  depth: 0
+  surfaceProp: Sand
+aerial_beach_02:
+  name: Aerial Beach 02
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_diff_1k.png
+      md5: babf06344de4fdb297c6746a90b6e43c
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_arm_1k.png
+      md5: c22bc9527cb752f2617d917bd10a6d19
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_nor_dx_1k.png
+      md5: ae43668eac4a683b647dc12258b65bce
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_disp_1k.png
+      md5: f191c60692acb4418f0166f68630cd9f
+  depth: 0
+  surfaceProp: Sand
+aerial_beach_03:
+  name: Aerial Beach 03
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_03/aerial_beach_03_diff_1k.png
+      md5: cc42819c6f77c8b9629fb3a41b7199e4
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_03/aerial_beach_03_arm_1k.png
+      md5: fcc6dbb9debbaa66ddd2c9e617c7a613
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_03/aerial_beach_03_nor_dx_1k.png
+      md5: 77c54f5fd49d7a91e706a84685ceb48b
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_03/aerial_beach_03_disp_1k.png
+      md5: 21e34b85ec076fe0bb0d4fe87f666a1b
+  depth: 0
+  surfaceProp: Sand
+aerial_grass_rock:
+  name: Aerial Grass Rock
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_grass_rock/aerial_grass_rock_diff_1k.png
+      md5: c8e58b31d224fd27c5d8674ffb1c14e2
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_grass_rock/aerial_grass_rock_arm_1k.png
+      md5: 4c48969da80d8ea834d54a9506063c8c
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_grass_rock/aerial_grass_rock_nor_dx_1k.png
+      md5: 13b51574507a459e59def288e312c5b8
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_grass_rock/aerial_grass_rock_disp_1k.png
+      md5: 1fe85f6e82e3e62a1e5f143a7a31971c
+  depth: 0
+  surfaceProp: Rock
+aerial_ground_rock:
+  name: Aerial Ground Rock
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_ground_rock/aerial_ground_rock_diff_1k.png
+      md5: 4b1684adf7379010299126dffc0ef364
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_ground_rock/aerial_ground_rock_arm_1k.png
+      md5: 171cd327888a3911b6c03bf330d09b32
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_ground_rock/aerial_ground_rock_nor_dx_1k.png
+      md5: 5d40d963257a64aa9f78488116e96c82
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_ground_rock/aerial_ground_rock_disp_1k.png
+      md5: 7cfb797a36d0f7b16143b642731699c3
+  depth: 0
+  surfaceProp: Mud
+aerial_mud_1:
+  name: Aerial Mud 1
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_mud_1/aerial_mud_1_diff_1k.png
+      md5: 1d1f7de87e14c623890bb0cacb280b95
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_mud_1/aerial_mud_1_arm_1k.png
+      md5: 30ba9380a979be2ace79317b86e77b7e
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_mud_1/aerial_mud_1_nor_dx_1k.png
+      md5: b465a161440c1ad50a98ae086a3f35e5
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_mud_1/aerial_mud_1_disp_1k.png
+      md5: 36e9f32615ba95d4638e9cebc026e75a
+  depth: 0
+  surfaceProp: Concrete
+aerial_rocks_01:
+  name: Aerial Rocks 01
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_01/aerial_rocks_01_diff_1k.png
+      md5: 44351936ba9caefeee0396ec37ba93ca
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_01/aerial_rocks_01_arm_1k.png
+      md5: 7eaed3232f6cac514d28a24d21903647
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_01/aerial_rocks_01_nor_dx_1k.png
+      md5: fe0a590b7d016a6dff7b2e85b67d3dc5
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_01/aerial_rocks_01_disp_1k.png
+      md5: 233e83971ef66ce50725e46003e82692
+  depth: 0
+  surfaceProp: Rock
+aerial_rocks_02:
+  name: Aerial Rocks 02
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_02/aerial_rocks_02_diff_1k.png
+      md5: 1bdc9c3ac9d56fd720a70c4dc5013740
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_02/aerial_rocks_02_arm_1k.png
+      md5: 19fc825f7c180e08ecf6e6d9c8512aed
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_02/aerial_rocks_02_nor_dx_1k.png
+      md5: 0de595b7f60fcfbe3d23c68fd819b678
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_02/aerial_rocks_02_disp_1k.png
+      md5: cbf9c2442f9b8dae944b9a81480cdb1a
+  depth: 0
+  surfaceProp: Rock
+aerial_rocks_04:
+  name: Aerial Rocks 04
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_04/aerial_rocks_04_diff_1k.png
+      md5: 48f184e7995f01888adc77e092ff7437
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_04/aerial_rocks_04_arm_1k.png
+      md5: b655307047aad1992045c05b5a466825
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_04/aerial_rocks_04_nor_dx_1k.png
+      md5: 59b0d92cc86f3c0084204f2db2742851
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_rocks_04/aerial_rocks_04_disp_1k.png
+      md5: 48f856b451d7b6c24b2b24596a0868b1
+  depth: 0
+  surfaceProp: Rock
+aerial_sand:
+  name: Aerial Sand
+  ignore: false
+  files:
+    diffuse:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_sand/aerial_sand_diff_1k.png
+      md5: 55cd6f4a96adf90d74c9308230d03019
+    arm:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_sand/aerial_sand_arm_1k.png
+      md5: 460667b5f6d3985ffb32b9872ae990fd
+    normal:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_sand/aerial_sand_nor_dx_1k.png
+      md5: 3ef5c3ba3648087099d0499aa0654212
+    height:
+      url: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_sand/aerial_sand_disp_1k.png
+      md5: a7393dc1df6164a28e6e405e970b9b24
+  depth: 0
+  surfaceProp: Sand
